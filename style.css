@@ -25,11 +25,12 @@ body{
 	position: fixed;
 	box-shadow: 0 3px 5px grey;
 	
-	
 }
 .container{
 	width: 85%;
 	margin: auto;
+	position: fixed;
+	box-shadow: 0 3px 5px grey;
 }
 .flex{
     display:flex;
@@ -39,6 +40,8 @@ body{
 	overflow: hidden;
 	font-family: twb;
 	text-align: center;
+	position: fixed;
+	box-shadow: 0 3px 5px grey;
 }
 .menu-area ul li{
 	display: inline-block;
@@ -52,9 +55,6 @@ body{
 	border: 5px 5px solid transparent;
 	border-radius: 3px;
 	margin-right: 5px;
-}
-.menu-area ul li:nth-child(1) a {
-	background: #06999e;
 }
 .menu-area ul li:last-child a{
 	margin-right: 0;
