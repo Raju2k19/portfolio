@@ -22,6 +22,9 @@ body{
 	padding: 8px 0;
 	text-align: center;
 	font-family: 'Merriweather', serif;
+	position: fixed;
+	box-shadow: 0 3px 5px grey;
+	
 	
 }
 .container{
